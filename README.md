@@ -1,1 +1,1 @@
-# biophysics2025
+# Example notebooks for Biophysics Course 2025
